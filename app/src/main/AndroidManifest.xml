@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dummy.android.app">
+
+    <application
+        android:label="DummyApp">
+    </application>
+
+</manifest>
